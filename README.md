@@ -1,9 +1,13 @@
 # Pequeno "manual" de alguns comandos <i>git</i> para <i>cli</i>
 
 ## Software necessário
+
+<i>Presume-se que já se tenha instalado <b>git</b> nos computadores</i>
 <i>Terminal <u>git bash</u> - onde irão ser executados os comandos</i>
 Website oficial:
 > https://git-scm.com/
+
+<i>Pode ser utilizado no terminal do Visual Studio Code e outras ferramentas, não é necessáriamente obrigatório ser o <u>git bash</u></i>
 
 ## Comandos importantes
 ### Configurar os dados do utilizador que vão ficar registados no github associados ao commit
