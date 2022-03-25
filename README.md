@@ -1,4 +1,4 @@
-# Pequeno "manual" de utilização comandos <i>git</i> utilizando o git-bash
+# Pequeno "manual" de alguns comandos <i>git</i> para <i>cli</i>
 
 ## Software necessário
 <i>Terminal <u>git bash</u> - onde irão ser executados os comandos</i>
