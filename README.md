@@ -18,9 +18,9 @@ Website oficial:
 
  ### Clonar um repositório localmente no <i>nosso</i> computador
  <i>Note-se que com <b>nosso</b> não quero parecer comunista. Apenas utilizo uma linguagem que faça um macaco entender o processo.</i>
-> git clone https://github.com/dgraca/redesII
+> git clone https://github.com/dgraca/comandos_git
 
-<i>Note-se que <b>https://github.com/dgraca/redesII</b> utiliza-se como exemplo de um repositório existente. Deve-se trocar com o repositório a querer-se clonar. Note-se ainda que este repositório é privado, apenas colaboradores conseguem clonar o repositório.</i>
+<i>Note-se que <b>https://github.com/dgraca/comandos_git</b> utiliza-se como exemplo de um repositório existente. Deve-se trocar com o repositório que se quer clonar</i>
 
 ### Adicionar ficheiros para fazer commit
 <i>Este passo é importante, porque para enviar documentos adicionados/editados/removidos, é preciso "dizer" ao git que existem alterações que devem ser enviadas</i>
